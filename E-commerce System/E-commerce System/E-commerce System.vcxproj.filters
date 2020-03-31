@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Ebay-Project---Alon-and-Yair\Amazon Project c++ OOP - Alon and Yair\Array.h">
+    <ClCompile Include="System.cpp">
       <Filter>Source Files</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>
