@@ -4,7 +4,7 @@
 
 int main()
 {
-	cout << "============================ WELCOME TO OUR SYSTEM ============================" << endl;
+	cout << "============================ Welcome To Our E-commerce  System ============================" << endl;
 	System sys;
 	sys.LoadUsers("Best_System.txt");
 	RunSystem(sys);
